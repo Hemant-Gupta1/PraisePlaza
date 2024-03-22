@@ -11,7 +11,7 @@ The project allows users to see testimonials of different customers.
 
 
 ## Technologies used
-Languages used in this project include HTML, CSS , Javascript, React
+Languages used in this project include HTML, CSS , JavaScript, React
 
 
 
