@@ -2,7 +2,7 @@
 
 
 ## Github Link
-https://github.com/Hemant-Gupta1/testimonial-reactb
+https://github.com/Hemant-Gupta1/PraisePlaza
 
 
 ## Features
