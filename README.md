@@ -14,7 +14,7 @@ The project allows users to see testimonials of different customers.
 Languages used in this project include HTML, CSS , JavaScript, React
 
 ## Instructions to run
-Use npm start in testimonial-shower folder in terminal
+Run npm start in testimonial-shower folder in terminal
 
 
 
