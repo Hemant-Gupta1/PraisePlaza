@@ -6,7 +6,7 @@ https://github.com/Hemant-Gupta1/PraisePlaza
 
 
 ## Features
-The project allows users to see testimonials of different customers.
+Facilitates users in viewing testimonials from various customers, enhancing trust and credibility.
 
 
 
